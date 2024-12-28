@@ -10,7 +10,7 @@ Clear Functionality: Reset the input display with the "C" button.
 
 Evaluate Expressions: Calculate the result of the entered expression using the "=" button.
 
-****Components** 
+**Components** 
 
 App
 
