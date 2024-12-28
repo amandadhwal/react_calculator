@@ -13,9 +13,9 @@ Evaluate Expressions: Calculate the result of the entered expression using the "
 **Folder Structure**
 
 ./src
-├── App.jsx                  # Main application component
-├── App.module.css          # Styling for the App component
-├── assets/                 # Static assets (e.g., logos)
+├── App.jsx                  # Main application component 
+├── App.module.css          # Styling for the App component 
+├── assets/                 # Static assets (e.g., logos) 
 │   ├── react.svg
 │   └── vite.svg
 ├── component/
