@@ -10,19 +10,6 @@ Clear Functionality: Reset the input display with the "C" button.
 
 Evaluate Expressions: Calculate the result of the entered expression using the "=" button.
 
-**Folder Structure**
-
-./src
-├── App.jsx                  # Main application component 
-├── App.module.css          # Styling for the App component 
-├── assets/                 # Static assets (e.g., logos) 
-│   ├── react.svg
-│   └── vite.svg
-├── component/
-│   ├── Display_container.jsx # Component for displaying calculator input and results
-│   ├── Button_container.jsx  # Component for rendering calculator buttons
-└── main.jsx                # Entry point of the application
-
 ****Components** 
 
 App
